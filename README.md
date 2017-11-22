@@ -1,5 +1,7 @@
 # GPU Implementation of The Canny Edge Detector
 
+This repository contains the CUDA C++ implementation of the Canny edge detection algorithm.
+
 # How to build: 
 
 In the root directory run:
