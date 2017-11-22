@@ -1,4 +1,4 @@
-# GPU implementation of the Canny edge detector
+# GPU Implementation of The Canny Edge Detector
 
 # How to build: 
 
