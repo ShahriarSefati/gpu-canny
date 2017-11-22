@@ -1,4 +1,4 @@
-# CUDA implementation of the Canny edge detection algorithm using GPU
+# GPU implementation of the Canny edge detector
 
 # How to build: 
 
